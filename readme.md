@@ -29,9 +29,9 @@ This web app was created so that users could list what they wanted before going 
 
 
 ```
-> Welcome landing page that has CTA takes you to Login.
-> A dashBoard to create the Grocery item you needed.
-> Ability to delete an item or edit if user needs to modify item listed.
+1. A welcome landing page that has a CTA takes you to log in.
+2. A dashboard to create the grocery item you needed.
+3. The ability to delete an item or edit if a user needs to modify an item listed.
 ```
 
 ## Overview
