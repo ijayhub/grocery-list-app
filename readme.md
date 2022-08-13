@@ -31,7 +31,7 @@ This web app was created so that users could list what they wanted before going 
 ```
 1. A welcome landing page that has a CTA takes you to log in.
 2. A dashboard to create the grocery item you needed.
-3. The ability to delete an item or edit if a user needs to modify an item listed.
+3. The ability to delete an item or edit an item if a user needs to modify an item listed.
 ```
 
 ## Overview
@@ -76,11 +76,7 @@ You may also see any lint errors in the console.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Dependencies
+[npm react-router-dom@6](https://reactrouter.com/docs/en/v6/getting-started/installation)
 
-```
-> Tailwind css
-
-> npm install react-router-dom@6 
-```
 <p align="right">(<a href="#top">back to top</a>)</p>
 
