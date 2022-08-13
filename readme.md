@@ -38,7 +38,7 @@ This web app was created so that users could list what they wanted before going 
 
 * [Repo Codes](https://github.com/ijayhub/grocery-list-app)
 
-* [Hosted Link](grocery-web-app.netlify.app)
+* [Hosted Link](https://grocery-web-app.netlify.app)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
