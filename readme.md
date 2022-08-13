@@ -29,7 +29,7 @@ This web app was created so that users could list what they wanted before going 
 
 
 ```
-> Welcome landing page that has CTA takes you to Login/Register.
+> Welcome landing page that has CTA takes you to Login.
 > A dashBoard to create the Grocery item you needed.
 > Ability to delete an item or edit if user needs to modify item listed.
 ```
@@ -38,7 +38,7 @@ This web app was created so that users could list what they wanted before going 
 
 * [Repo Codes](https://github.com/ijayhub/grocery-list-app)
 
-* [Hosted Link]()
+* [Hosted Link](grocery-web-app.netlify.app)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
