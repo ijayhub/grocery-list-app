@@ -36,9 +36,9 @@ This web app was created so that users could list what they wanted before going 
 
 ## Overview
 
-* [Repo codes]()
+* [Repo Codes](https://github.com/ijayhub/grocery-list-app)
 
-* [LIVE LINK]()
+* [Hosted Link]()
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
