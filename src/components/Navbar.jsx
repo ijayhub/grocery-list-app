@@ -3,7 +3,7 @@ import React from 'react'
 const Navbar = () => {
 	return (
 		<>
-			<div className='flex items-center justify-between container mx-auto home m-6 md:mb-40 login-container'>
+			<div className='flex items-center justify-between container mx-auto home m-6 md:mb-36 login-container'>
 				<a href='/'>
 					<div className='bg-yellow-800 text-white rounded-lg shadow-md w-16 text-center p-2 text-2xl font-bold'>
 						GCR

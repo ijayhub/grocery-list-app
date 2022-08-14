@@ -13,11 +13,9 @@ const Login = () => {
 	}
 	return (
 		<div className='container mx-auto'>
-			<div className='bg-yellow-800 text-white rounded-lg shadow-md w-16 text-center text-2xl font-bold mt-11 mb-40 login-container'>
+			<div className='bg-yellow-800 text-white rounded-lg shadow-md w-16 text-center text-2xl font-bold mt-11 mb-36 login-container'>
 				<a href='/'>
-					<h1 className='p-2'>
-						GCR
-					</h1>
+					<h1 className='p-2'>GCR</h1>
 				</a>
 			</div>
 			<div className='flex items-center justify-center flex-col  shadow-lg mx-auto login-content border-t-4 border-yellow-900 rounded-lg'>
@@ -31,7 +29,7 @@ const Login = () => {
 					<form onSubmit={handleSubmit}>
 						<label
 							htmlFor='email'
-							className='text-yellow-900 font-bold mb-6 login-label'>
+							className='text-yellow-900 font-bold mb-6 login-label font-size'>
 							Email
 						</label>
 						<input
@@ -45,7 +43,7 @@ const Login = () => {
 						/>
 						<label
 							htmlFor='password'
-							className='text-yellow-900 font-bold mb-6 login-label'>
+							className='text-yellow-900 font-bold mb-6 login-label font-size'>
 							Password
 						</label>
 						<input
@@ -63,9 +61,9 @@ const Login = () => {
 							<a href='CreatingGrocery'>Login</a>
 						</button>
 						<div className='flex items-center justify-center md:text-xl'>
-							<p>
+							<p className='font-size'>
 								Not a member yet?{' '}
-								<a href='Signup' className='text-yellow-700'>
+								<a href='Signup' className='text-yellow-700 font-size'>
 									Register
 								</a>
 							</p>
@@ -74,7 +72,6 @@ const Login = () => {
 				</div>
 			</div>
 		</div>
-	
 	);
 }
 

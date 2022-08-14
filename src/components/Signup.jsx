@@ -13,7 +13,7 @@ const Signup = () => {
     }
 	return (
 		<div className='container mx-auto '>
-			<div className='bg-yellow-800 text-white rounded-lg shadow-md w-16 text-center text-2xl font-bold mt-11 mb-40 login-container'>
+			<div className='bg-yellow-800 text-white rounded-lg shadow-md w-16 text-center text-2xl font-bold mt-11 mb-32 login-container'>
 				<a href='/' className=''>
 					<h1 className='p-2'>GCR</h1>
 				</a>
@@ -29,7 +29,7 @@ const Signup = () => {
 					<form onSubmit={handleSubmit}>
 						<label
 							htmlFor='name'
-							className='text-yellow-900 font-bold mb-6 login-label'>
+							className='text-yellow-900 font-bold mb-6 login-label font-size'>
 							Name
 						</label>
 						<input
@@ -43,7 +43,7 @@ const Signup = () => {
 						/>
 						<label
 							htmlFor='email'
-							className='text-yellow-900 font-bold mb-6 login-label'>
+							className='text-yellow-900 font-bold mb-6 login-label font-size'>
 							Email
 						</label>
 						<input
@@ -57,7 +57,7 @@ const Signup = () => {
 						/>
 						<label
 							htmlFor='password'
-							className='text-yellow-900 font-bold mb-6 login-label'>
+							className='text-yellow-900 font-bold mb-6 login-label font-size'>
 							Password
 						</label>
 						<input
@@ -75,9 +75,9 @@ const Signup = () => {
 							<a href='Login'>Signup</a>
 						</button>
 						<div className='flex items-center justify-center md:text-xl'>
-							<p>
+							<p className='font-size'>
 								Already a member?{' '}
-								<a href='Login' className='text-yellow-700'>
+								<a href='Login' className='text-yellow-700 font-size'>
 									Login
 								</a>
 							</p>
