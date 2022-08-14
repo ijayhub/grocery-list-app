@@ -9,7 +9,7 @@ const Home = () => {
         <Navbar/>
 				<div className='grid md:grid-cols-2 container mx-auto home home-container login-container'>
 					<div>
-						<h1 className='md:text-6xl font-extrabolb md:mb-7 text-yellow-900 home-header'>
+						<h1 className='md:text-6xl font-extrabold md:mb-7 text-yellow-900 home-header'>
 							GROCERY LIST APP
 						</h1>
 						<p className='tracking-widest leading-7 text-yellow-900 font-mono md:mb-7 text-justify'>
